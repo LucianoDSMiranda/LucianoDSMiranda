@@ -30,6 +30,8 @@
   <a href = "mailto:lucianodsmiranda@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "https://wa.me/5511988941704"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
-  </div >
 
   ![Snake animation](https://github.com/lucianodsmiranda/lucianodsmiranda/blob/output/github-contribution-grid-snake.svg)
+   
+     </div >
+
