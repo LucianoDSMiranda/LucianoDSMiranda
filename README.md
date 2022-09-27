@@ -1,4 +1,4 @@
-## Ola, seja bem vindo!
+## Ola, bem vindo ao meu GitHub!
 <div align="center">
   <a href="https://github.com/LucianoDSMiranda">
   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=LucianoDSMiranda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
