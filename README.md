@@ -1,13 +1,16 @@
-## Ola, bem vindo ao meu GitHub!
+## Ola, sou o Luciano Miranda e seja bem vindo ao meu GitHub!
+
+-  💻 Trabalhando atualmente com BackEnd
+- 💙 Apaixonado por tecnologia
+- 📚 Estudando ASP.Net Core 6 e Angular JS
+   ##
+  
 <div align="center">
   <a href="https://github.com/LucianoDSMiranda">
   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=LucianoDSMiranda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoDSMiranda&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-   ##
-  
- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luciano-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luciano-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
