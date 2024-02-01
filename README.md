@@ -1,8 +1,7 @@
 ## Ola, sou o Luciano Miranda e seja bem vindo ao meu GitHub!
 
 -  💻 Trabalhando atualmente com BackEnd
-- 💙 Apaixonado por tecnologia
-- 📚 Estudando ASP.Net Core 6 e Angular JS
+- 💙 Apaixonado por tecnologia  
    ##
   
   
