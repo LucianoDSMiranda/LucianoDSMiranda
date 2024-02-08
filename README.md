@@ -1,6 +1,6 @@
 ## Ola, sou o Luciano Miranda e seja bem vindo ao meu GitHub!
 
--  💻 Trabalhando atualmente com BackEnd
+-  💻 Git pouco atualizado por estar usando o Git da empresa
 - 💙 Apaixonado por tecnologia  
    ##
   
